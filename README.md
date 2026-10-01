@@ -4,6 +4,9 @@ ParkKean is a campus parking assistant for Kean University, built with Node.js, 
 
 It provides a browser dashboard for checking parking lot availability, reporting real-world lot status, and viewing a community leaderboard of parking updates. The application works with seeded local data by default and can optionally merge data from a live parking feed, making it usable as both a portfolio project and a foundation for a production campus mobility tool.
 
+**Live demo:** https://parkkean-davidarosemena.onrender.com
+>Side Note: Hosted on Render's free plan, so the first load may take up to a minute while the server wakes up.
+
 ## Portfolio Highlights
 
 - Full-stack JavaScript application with an Express API, SQLite persistence, and a responsive browser UI.
