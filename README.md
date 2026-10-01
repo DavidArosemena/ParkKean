@@ -177,4 +177,4 @@ This project does not need `requirements.txt`, `Pipfile`, or `pyproject.toml` be
 
 ## Author
 
-Minh - Software engineering portfolio project
+David Arosemena - Software engineering portfolio project
